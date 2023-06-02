@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.drawingtoolkit-23901901.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/UNREAL ENGİNE PROJECTS/grtwll/DrawingToolkit 5.1-20230428T121926Z-001/DrawingToolkit 5.1/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "DrawingToolkit-23901901 [UE Editor]"
+				}
+			}
+		}
+	]
+}
